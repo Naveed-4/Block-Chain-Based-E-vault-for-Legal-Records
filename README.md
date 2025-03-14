@@ -90,12 +90,12 @@ NOTE: Some of the files arent uploaded here as a directory < 100 files are only 
 MIT License - See [LICENSE](LICENSE) for details
 
 ## 🔗 Additional Resources
-- [Medium Blog Post](https://medium.com/@2103a52159/discover-your-next-favorite-song-building-a-music-recommendation-system-ce998fd229a3)
-- [LinkedIn Post](https://www.linkedin.com/posts/naveed-sharief-b0ba1b252_machinelearning-musictech-aiinnovation-activity-7264335292780748800-zSgd?utm_source=share&utm_medium=member_desktop)
+- [Medium Blog Post](https://medium.com/@2103a52159/discover-the-future-of-legal-record-management-introducing-the-e-vault-system-6701a2267908)
+- [LinkedIn Post](https://www.linkedin.com/posts/naveed-sharief-b0ba1b252_blockchain-legaltech-cybersecurity-activity-7306309881509093377-MyOc)
 - [Project Report](reports/Final-Report.pdf)
 - [Project Poster](reports/Poster.pdf)
 - [Project PPT](reports/PPT.pdf)
-- [Youtube Video giving the PPT presentation](https://youtu.be/McpnVNAPNQo?si=87_OhFmZ4dh3LOug)
+- [Youtube Video giving the PPT presentation](https://www.youtube.com/watch?v=ZT7IewmoPsU)
 
 ## 🐛 Issues & Contributions
 Found a bug? Want to contribute? Please open an issue or submit a pull request!

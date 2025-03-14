@@ -28,6 +28,8 @@ legal-evault/
 
 ## Setup Instructions
 
+NOTE: Some of the files arent uploaded here as a directory < 100 files is only accepted. So, here is [link](https://drive.google.com/file/d/1P3qEt8bsrdGy1RZi-Dz1ddp4ecM10dK8/view?usp=sharing) to ask full environment workspace, download zip and extract
+
 1. **Create a virtual environment**:
    ```
    python -m venv venv

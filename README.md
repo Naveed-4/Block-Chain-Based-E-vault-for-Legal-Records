@@ -84,3 +84,23 @@ NOTE: Some of the files arent uploaded here as a directory < 100 files are only 
 - **UI**: Streamlit
 - **Storage**: Local encrypted file system
 - **Authentication**: Password-based with session tokens
+
+
+## 📝 License
+MIT License - See [LICENSE](LICENSE) for details
+
+## 🔗 Additional Resources
+- [Medium Blog Post](https://medium.com/@2103a52159/discover-your-next-favorite-song-building-a-music-recommendation-system-ce998fd229a3)
+- [LinkedIn Post](https://www.linkedin.com/posts/naveed-sharief-b0ba1b252_machinelearning-musictech-aiinnovation-activity-7264335292780748800-zSgd?utm_source=share&utm_medium=member_desktop)
+- [Project Report](reports/Final-Report.pdf)
+- [Project Poster](reports/Poster.pdf)
+- [Project PPT](reports/PPT.pdf)
+- [Youtube Video giving the PPT presentation](https://youtu.be/McpnVNAPNQo?si=87_OhFmZ4dh3LOug)
+
+## 🐛 Issues & Contributions
+Found a bug? Want to contribute? Please open an issue or submit a pull request!
+
+---
+
+**Happy Block Chaining! 🎧**
+

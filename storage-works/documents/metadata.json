@@ -1,0 +1,32 @@
+{
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855": {
+    "user_id": "aca0b4675b7e556930bee1bc3fd1b577",
+    "name": "test b a",
+    "type": "text/plain",
+    "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size": 0,
+    "created_at": 1741928683.9443605,
+    "iv": "mICA718zC235JK6pCystUw==",
+    "encryption_key": "oibXhC0nFHyQLl/Cs8d0otv2FxefuMbjD1i9hVMN+7g="
+  },
+  "3ed494547f688e5e8361d0c8baa08d548dc9d6bb90d2e8abad297446f8f28313": {
+    "user_id": "ab45d2dd47030374de3d4d00b30c3d0f",
+    "name": "pdf a",
+    "type": "application/pdf",
+    "hash": "3ed494547f688e5e8361d0c8baa08d548dc9d6bb90d2e8abad297446f8f28313",
+    "size": 199136,
+    "created_at": 1741928456.5583923,
+    "iv": "mL1weOj+j1VlE/7aqIr0PA==",
+    "encryption_key": "LkbgpewgG/jgIK1yCAI1XUrX7jcjQ301tgw05sv6Mrs="
+  },
+  "91087b002fb7eb3f54525a003e751b3468586cb213171a984c71ccd197ee808d": {
+    "user_id": "aca0b4675b7e556930bee1bc3fd1b577",
+    "name": "test c",
+    "type": "image/png",
+    "hash": "91087b002fb7eb3f54525a003e751b3468586cb213171a984c71ccd197ee808d",
+    "size": 1180396,
+    "created_at": 1741928414.2858799,
+    "iv": "f8SC4dwToVZCfRZ0l2N3vA==",
+    "encryption_key": "SKmXFdQlDPgm63mjD4tSFhG3/F4kggtAy1BwndRsAhs="
+  }
+}

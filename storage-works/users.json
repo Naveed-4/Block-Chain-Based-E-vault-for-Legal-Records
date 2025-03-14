@@ -1,0 +1,26 @@
+{
+  "a": {
+    "user_id": "ab45d2dd47030374de3d4d00b30c3d0f",
+    "username": "a",
+    "email": "a",
+    "hashed_password": "5cc6ac3144875a5de119a72850bc61165187fefe275b00756cde85a317dfa1c7",
+    "salt": "07b02b81ff4c083d44d6918e603f5852",
+    "role": "user"
+  },
+  "b": {
+    "user_id": "aca0b4675b7e556930bee1bc3fd1b577",
+    "username": "b",
+    "email": "b",
+    "hashed_password": "0b28e44ff30a96c55cba3dfbf9328624631cc8f15a1734c5365a4094cf8c7faa",
+    "salt": "2df49a354760c337f194753a73db3dcb",
+    "role": "user"
+  },
+  "c": {
+    "user_id": "533e2ab5dd018e47df42bd5996ac0ebf",
+    "username": "c",
+    "email": "c",
+    "hashed_password": "c4c6a03933ba653b2bc678cdc2d97c67d41702774da1926def1bb10257b55f43",
+    "salt": "e1a43e8a7cae22866f22eb5f8d452120",
+    "role": "user"
+  }
+}

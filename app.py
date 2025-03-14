@@ -14,6 +14,13 @@ controller = EVaultController()
 # Set page config
 st.set_page_config(page_title="E-Vault: Blockchain Legal Records", layout="wide")
 
+# Inject custom CSS
+def local_css(file_name):
+    with open(file_name) as f:
+        st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
+
+local_css("background.css")
+
 # Helper functions
 def get_file_extension(filename):
     return os.path.splitext(filename)[1].lower()

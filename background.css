@@ -1,0 +1,49 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    color: #333; /* Text color */
+    font-family: 'Arial', sans-serif; /* Font family */
+}
+
+.sidebar .sidebar-content {
+    background-color: #e6f7ff; /* Slightly darker blue for sidebar */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.stButton > button {
+    background-color: #1f93e5; /* Button background */
+    color: white; /* Button text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.stButton > button:hover {
+    background-color: #1f93e5; /* Darker blue on hover */
+}
+
+.stDownloadButton > button {
+    background-color: #1f93e5; /* Download button background */
+    color: white; /* Download button text color */
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.stDownloadButton > button:hover {
+    background-color: #1f93e5; /* Darker blue on hover */
+}
+
+.stTextInput, .stTextArea, .stSelectbox {
+    border: 1px solid #1f93e5;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* Additional styling for headers and subheaders */
+h1, h2, h3, h4, h5, h6 {
+    color: #1f93e5;
+}
